@@ -1,3 +1,3 @@
-# hello-world
-just learning github
-new edits added
+CRUD-API
+Simple crud api using express.js and mongodb
+
